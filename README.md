@@ -1,6 +1,6 @@
 # Founder Relationship Graph Pipeline
 
-An automated pipeline that tracks billion-dollar tech exits and crypto events, enriches founder data with internal relationship intel, and generates visual warm-intro maps to support BD outreach—all in under 24 hours.
+An automated pipeline that tracks billion-dollar tech exits and crypto events, enriches founder data with internal relationship intel, and generates visual warm-intro maps to support BD outreach.
 
 ## ✨ What It Does
 
@@ -31,4 +31,4 @@ An automated pipeline that tracks billion-dollar tech exits and crypto events, e
 2. **Set up your enviroment variables**
   Copy the template and fill in credentials:
   ```bash
-  cp .env.template .env
+   cp .env.template .env
